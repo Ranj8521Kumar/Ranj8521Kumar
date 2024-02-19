@@ -3,7 +3,7 @@ Hi, I'm Ranjan Kumar Pandit,
 I am currently learning DBMS(SQL) as well as practicing Web Development Projects. I aspire to be a Web Developer one day and have a zeal to learn and innovate something in technology.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ranjan-kumar-pandit-6a0409262) [![Instagram](https://img.shields.io/badge/Instagram-%23007700.svg?logo=instagram&logoColor=red)](https://www.instagram.com/ranjankumarpandit39/) [![Twitter](https://img.shields.io/badge/Twitter-%230011B5.svg?logo=twitter&logoColor=yellow)](https://twitter.com/RANJANK89732971)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/ranjan-kumar-pandit-6a0409262/) [![Instagram](https://img.shields.io/badge/Instagram-%23007700.svg?logo=instagram&logoColor=red)](https://www.instagram.com/ranjankumarpandit39/) [![Twitter](https://img.shields.io/badge/Twitter-%230011B5.svg?logo=twitter&logoColor=yellow)](https://twitter.com/RANJANK89732971)
 
 
 # 💻 Tech Stack:
