@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me:<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 Hi, I'm Ranjan Kumar Pandit,
 I am currently learning DBMS(SQL) as well as practicing Web Development Projects and Solving DSA Problems. I aspire to be a Web Developer one day and have a zeal to learn and innovate something in technology.
 
