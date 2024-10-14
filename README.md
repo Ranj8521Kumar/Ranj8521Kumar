@@ -1,6 +1,6 @@
 # 💫 About Me:<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 Hi, I'm Ranjan Kumar Pandit,
-I am currently learning DBMS(SQL) as well as practicing Web Development Projects and Solving DSA Problems. I aspire to be a Web Developer one day and have a zeal to learn and innovate something in technology.
+an Information Technology Student at RGIPT with a strong interest in web development, machine learning, and system design. With a current CGPA of 9.20, I’ve worked on several hands-on projects that have helped me build real-world skills. I’m skilled in C++, Python, JavaScript, React, Node.js, MongoDB, SQL and TensorFlow, and I love working on projects that solve real problems. I’ve been recognized for my academic achievements and have a 4-star rating on GeeksforGeeks. I aspire to be a Web Developer one day and have a zeal to learn and innovate something in technology.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranj8521Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjan8521Kumar" /> </p>
 
