@@ -10,6 +10,16 @@ an Information Technology Student at RGIPT with a strong interest in web develop
 ##  🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ranj8521Kumar&theme=onedark)](https://github.com/Ranj8521Kumar/github-profile-trophy)
 
+##  🪶 GSSOC(Ext-24) Badges 
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/5.png" width="100px" height="100px" />
+</div>
+
 ##  </> Coading Profiles
 <a href="https://www.codechef.com/users/ranjankumar85" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"  height="30" width="40" fill="white"/></a>
 <a href="https://leetcode.com/u/22it3037/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  height="30" width="40" /></a>
