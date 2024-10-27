@@ -22,7 +22,7 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
 </div>
 
 ##  </> Coading Profiles
-<a href="https://leetcode.com/u/22it3037/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  height="30" width="40" /></a>
+<a href="https://leetcode.com/u/heyranjan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/ranjankumar85" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3b88b805-0673-4b74-a1f8-da9e10eccb04"  height="30" width="40" fill="white"/></a>
 <a href="https://www.geeksforgeeks.org/user/22it3vj97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<22it3vj97>" height="30" width="40" /></a>
 
