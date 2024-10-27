@@ -1,6 +1,6 @@
 # 💫 About Me:<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
-Hi, I'm Ranjan Kumar Pandit,
-an Information Technology Student at RGIPT with a strong interest in web development, machine learning, and system design. With a current CGPA of 9.20, I’ve worked on several hands-on projects that have helped me build real-world skills. I’m skilled in C++, Python, JavaScript, React, Node.js, MongoDB, SQL and TensorFlow, and I love working on projects that solve real problems. I’ve been recognized for my academic achievements and have a 4-star rating on GeeksforGeeks. I aspire to be a Web Developer one day and have a zeal to learn and innovate something in technology.
+Hi, I'm Ranjan Kumar Pandit, 
+an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machine learning. Skilled in C++, Python, JavaScript, and TensorFlow, I've applied my knowledge in hands-on projects, earning a 4-star rating on GeeksforGeeks. Aspiring to be a Web Developer, I’m dedicated to solving real-world problems through tech.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranj8521Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjan8521Kumar" /> </p>
 
@@ -8,7 +8,8 @@ an Information Technology Student at RGIPT with a strong interest in web develop
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjan-kumar-pandit-6a0409262/) [![Instagram](https://img.shields.io/badge/Instagram-%23007700.svg?logo=instagram&logoColor=red)](https://www.instagram.com/ranjankumarpandit39/) [![Twitter](https://img.shields.io/badge/Twitter-%230011B5.svg?logo=twitter&logoColor=yellow)](https://twitter.com/RANJANK89732971)
 
 ##  🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ranj8521Kumar&theme=onedark)](https://github.com/Ranj8521Kumar/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ranj8521Kumar&row=1&no-bg=true)](https://github.com/Ranj8521Kumar/github-profile-trophy)
+
 
 ##  🪶 GSSOC(Ext-24) Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
