@@ -137,25 +137,25 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <div align="center">
+  <h2><b>⚙️ GitHub Analytics</b></h2>
+  <a href="https://github.com/Ranj8521Kumar">
+     <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranj8521Kumar&theme=dark" alt="Ranj8521Kumar github stats" />
+      <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Ranj8521Kumar&count_private=true&show_icons=true&locale=en&theme=dark" alt="Ranj8521Kumar github stats" />
+  <br>
+</div>
+
+<div align="center">
   <details>
-    <summary><h2><b>🛠 GitHub Stats/Trophies</b></h2></summary><br>
-    <h2>📊 ⚙️ GitHub Analytics:</h2>
-    <!-- Profile Summary -->
-    <table width="100%" align="center">
-      <tr>
-        <td>
-          <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranj8521Kumar&theme=dark" alt="Profile Summary">
-        </td>
-      </tr>
-    </table>
+    <summary><h2><b>🛠 Developer Stats</b></h2></summary><br>
+<!--     <h2>📊 ⚙️ GitHub Analytics:</h2> -->
     <!-- GitHub and Streak Stats -->
     <table width="100%" align="center">
       <tr>
         <td>
-          <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Ranj8521Kumar&count_private=true&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
+          <img width="400em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ranj8521Kumar&theme=dark&utcOffset=8" alt="GitHub Stats"/>
         </td>
         <td>
-          <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranj8521Kumar&count_private=true&theme=dark" alt="Streak Stats"/>
+          <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranj8521Kumar&count_private=true&theme=dark" alt="Streak Stats"/>
         </td>
       </tr>
     </table>
