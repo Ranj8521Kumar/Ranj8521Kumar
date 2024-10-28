@@ -34,16 +34,44 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
 <!--Added: Animated Line Seperators-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<div align="center">
+  <h2>🌐 Socials:</h2>
+  <a href="https://www.linkedin.com/in/ranjan-kumar-pandit-6a0409262/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/ranjankumarpandit39/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23007700.svg?logo=instagram&logoColor=red" alt="Instagram">
+  </a>
+  <a href="https://twitter.com/RANJANK89732971" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%230011B5.svg?logo=twitter&logoColor=yellow" alt="Twitter">
+  </a>
+</div>
 
+<!--
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjan-kumar-pandit-6a0409262/) [![Instagram](https://img.shields.io/badge/Instagram-%23007700.svg?logo=instagram&logoColor=red)](https://www.instagram.com/ranjankumarpandit39/) [![Twitter](https://img.shields.io/badge/Twitter-%230011B5.svg?logo=twitter&logoColor=yellow)](https://twitter.com/RANJANK89732971)
+-->
+<!--Added: Animated Line Seperators-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<div align="center">
+  <h2>🏆 GitHub Trophies</h2>
+  <a href="https://github.com/Ranj8521Kumar/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=Ranj8521Kumar&row=1&no-bg=true" alt="GitHub Trophies">
+  </a>
+</div>
+
+<!--
 ##  🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ranj8521Kumar&row=1&no-bg=true)](https://github.com/Ranj8521Kumar/github-profile-trophy)
+-->
+
+<!--Added: Animated Line Seperators-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 
-##  🪶 GSSOC(Ext-24) Badges 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
+  <h2> 🪶 GSSOC(Ext-24) Badges </h2>
 <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/postman.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/2.png" width="100px" height="100px" />
@@ -52,34 +80,107 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/5.png" width="100px" height="100px" />
 </div>
 
-##  </> Coading Profiles
-<a href="https://leetcode.com/u/heyranjan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"  height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/ranjankumar85" target="blank"><img align="center" src="https://github.com/user-attachments/assets/3b88b805-0673-4b74-a1f8-da9e10eccb04"  height="30" width="40" fill="white"/></a>
-<a href="https://www.geeksforgeeks.org/user/22it3vj97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="<22it3vj97>" height="30" width="40" /></a>
+<!--Added: Animated Line Seperators-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<div align="center">
+  <h2>💻 Coding Profiles</h2>
+  <a href="https://leetcode.com/u/heyranjan/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+  </a>
+  <a href="https://www.codechef.com/users/ranjankumar85" target="_blank">
+    <img src="https://github.com/user-attachments/assets/3b88b805-0673-4b74-a1f8-da9e10eccb04" alt="CodeChef" height="30" width="40" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/22it3vj97/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
+  </a>
+</div>
+
+
+<!--Added: Animated Line Seperators-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <!-- <img src="https://leetcode-badge-showcase.vercel.app/api?username=heyranjan&theme=dark&animated=true" alt="LeetCode Badges"/> -->
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![ReactJs](https://img.shields.io/badge/React-%23D00000.svg?style=for-the-badge&logo=react&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![REDUX](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+<div align="center">
+  <h2>💻 Tech Stack:</h2>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-%23D00000.svg?style=for-the-badge&logo=react&logoColor=white" alt="ReactJs" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/NPM-%23000000.svg?logo=npm&logoColor=white" alt="NPM" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="REDUX" />
+  <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="MicrosoftSQLServer" />
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" alt="Windows Terminal" />
+</div>
 
 
+<!--Added: Animated Line Seperators-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<div align="center">
+  <details>
+    <summary><h2><b>🛠 GitHub Stats/Trophies</b></h2></summary><br>
+    <h2>📊 ⚙️ GitHub Analytics:</h2>
+    <!-- Profile Summary -->
+    <table width="100%" align="center">
+      <tr>
+        <td>
+          <img width="600em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranj8521Kumar&theme=dark" alt="Profile Summary">
+        </td>
+      </tr>
+    </table>
+    <!-- GitHub and Streak Stats -->
+    <table width="100%" align="center">
+      <tr>
+        <td>
+          <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Ranj8521Kumar&count_private=true&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
+        </td>
+        <td>
+          <img width="420em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ranj8521Kumar&count_private=true&theme=dark" alt="Streak Stats"/>
+        </td>
+      </tr>
+    </table>
+    <!-- Most Used Languages -->
+    <table width="100%" align="center">
+      <tr>
+        <td>
+          <img width="400em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ranj8521Kumar&layout=compact&theme=dark" alt="Most Used Languages">
+        </td>
+        <td>
+          <img width="400em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ranj8521Kumar&layout=compact&theme=dark" alt="Most Used Languages">
+        </td>
+      </tr>
+    </table>
+  </details>
+</div>
+
+
+<!--
 # 📊 ⚙️GitHub Analytics:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranj8521Kumar&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ranj8521Kumar&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ranj8521Kumar&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ranj8521Kumar&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ranj8521Kumar&theme=dark&utcOffset=8)
-
-<!-- Added: Animated Heading for Random Dev Quote -->
-<div align="center">
-  <h2 style="display: inline; margin: 0 5px;">
-    <img src="https://media.tenor.com/_m9BeUagaMkAAAAi/writing-hand-joypixels.gif" alt="Writing Hand" width="50" height="50" style="vertical-align: middle; margin: 0 5 25 0" />Random Dev Quote
-  </h2>
-</div>
-
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+-->
 
 <!--Added: Animated Line Seperators-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -92,8 +193,20 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
   <h2 style="display: inline; margin: 0 10px;">
     <img src="https://media.tenor.com/BhU1V9CAAngAAAAi/cute-sneki.gif" alt="Snake Gif 1" width="50" height="50" style="vertical-align: middle;" />My Contributions<img src="https://media.tenor.com/mkPK7XglYZ4AAAAi/cute-sneki.gif" alt="Snake Gif 2" width="50" height="50" style="vertical-align: middle;" />
   </h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ranj8521Kumar/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img alt="snake eating my contributions" src="https://github.com/Ranj8521Kumar/Ranj8521Kumar/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
+
+<!--Added: Animated Line Seperators-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<!-- Added: Animated Heading for Random Dev Quote -->
+<div align="center">
+  <h2 style="display: inline; margin: 0 5px;">
+    <img src="https://media.tenor.com/_m9BeUagaMkAAAAi/writing-hand-joypixels.gif" alt="Writing Hand" width="50" height="50" style="vertical-align: middle; margin: 0 5 25 0" />Random Dev Quote
+  </h2>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+</div>
+
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
