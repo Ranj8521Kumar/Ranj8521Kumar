@@ -1,8 +1,39 @@
+<!-- Added Header Wave animation -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=70&section=header"/>
+
+<!-- Profilw views -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranj8521Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjan8521Kumar" /> </p>
+
+<!-- Added Animated Intro -->
+<h1 align="center">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <img style="padding: 0 0 15 0" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="60">    
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=540&height=60&duration=5000&lines=Hi+There!;+I'm+Ranjan+Kumar+Pandit!;+A+Web+Developer!;+Open+-+Source+%26+Tech+Enthusiast!;" alt="Typing Animation" />
+    <img style="padding: 0 0 15 0" src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="60">
+  </div>
+</h1>
+
+<!--
 # 💫 About Me:<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 Hi, I'm Ranjan Kumar Pandit, 
 an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machine learning. Skilled in C++, Python, JavaScript, and TensorFlow, I've applied my knowledge in hands-on projects, earning a 4-star rating on GeeksforGeeks. Aspiring to be a Web Developer, I’m dedicated to solving real-world problems through tech.
+-->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ranj8521Kumar&label=Profile%20views&color=0e75b6&style=flat" alt="Ranjan8521Kumar" /> </p>
+<!-- Added About Me Section and GIF -->
+<div>
+  👨🏻‍💻 <strong>About me</strong>: Passionate IT Undergrad Student at RGIPT (CGPA: 9.20)<img align="right" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Profile Image" width="380" height= "200" /><br>
+  🎓 <strong>Sophomore</strong>: B.Tech in Information Technology(IT)<br>
+  ⚡ <strong>Open-Source</strong> & <strong>Tech Enthusiast</strong><br>
+  🌱 I am currently learning <strong>Web Development</strong><br>
+  🚀 Hackathon Participant | Passionate about Engineering Solutions<br>
+  🌐 Community: Active in Hacktoberfest, GSSoC, and other open-source communities <br>
+</div>
+
+<br>
+
+<!--Added: Animated Line Seperators-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranjan-kumar-pandit-6a0409262/) [![Instagram](https://img.shields.io/badge/Instagram-%23007700.svg?logo=instagram&logoColor=red)](https://www.instagram.com/ranjankumarpandit39/) [![Twitter](https://img.shields.io/badge/Twitter-%230011B5.svg?logo=twitter&logoColor=yellow)](https://twitter.com/RANJANK89732971)
@@ -41,11 +72,28 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ranj8521Kumar&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ranj8521Kumar&theme=dark&utcOffset=8)
 
+<!-- Added: Animated Heading for Random Dev Quote -->
+<div align="center">
+  <h2 style="display: inline; margin: 0 5px;">
+    <img src="https://media.tenor.com/_m9BeUagaMkAAAAi/writing-hand-joypixels.gif" alt="Writing Hand" width="50" height="50" style="vertical-align: middle; margin: 0 5 25 0" />Random Dev Quote
+  </h2>
+</div>
 
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!--Added: Animated Line Seperators-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+<!-- Snake Contribution Animation -->
+
+<!-- Added: New Heading for Snake Animation -->
+<div align="center">
+  
+  <h2 style="display: inline; margin: 0 10px;">
+    <img src="https://media.tenor.com/BhU1V9CAAngAAAAi/cute-sneki.gif" alt="Snake Gif 1" width="50" height="50" style="vertical-align: middle;" />My Contributions<img src="https://media.tenor.com/mkPK7XglYZ4AAAAi/cute-sneki.gif" alt="Snake Gif 2" width="50" height="50" style="vertical-align: middle;" />
+  </h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ranj8521Kumar/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+</div>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
@@ -57,3 +105,6 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
 <img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/jrohitofficial/jrohitofficial/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
 <br />
 
+
+<!-- Added Footer Wave animation -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
