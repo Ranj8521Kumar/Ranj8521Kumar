@@ -23,10 +23,11 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
 <div>
   👨🏻‍💻 <strong>About me</strong>: Passionate IT Undergrad Student at RGIPT (CGPA: 9.20)<img align="right" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Profile Image" width="380" height= "200" /><br>
   🎓 <strong>Sophomore</strong>: B.Tech in Information Technology(IT)<br>
+  🌐 Check out my ✨ <a href="https://ranj8521kumar.github.io/Portfolio/" target="_blank"><b>Website</b></a> for more!
   ⚡ <strong>Open-Source</strong> & <strong>Tech Enthusiast</strong><br>
   🌱 I am currently learning <strong>Web Development</strong><br>
-  🚀 Hackathon Participant | Passionate about Engineering Solutions<br>
-  🌐 Community: Active in Hacktoberfest, GSSoC, and other open-source communities <br>
+  🚀 <b>Hackathon Participant</b> | Passionate about Engineering Solutions<br>
+  👯 Community: Active in <b>Hacktoberfest</b>, <b>GSSoC</b>, and other <b>open-source communities</b> <br>
 </div>
 
 <br>
