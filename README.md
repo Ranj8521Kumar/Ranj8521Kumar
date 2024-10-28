@@ -140,7 +140,7 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
   <h2><b>⚙️ GitHub Analytics</b></h2>
   <a href="https://github.com/Ranj8521Kumar">
      <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranj8521Kumar&theme=dark" alt="Ranj8521Kumar github stats" />
-      <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Ranj8521Kumar&count_private=true&show_icons=true&locale=en&theme=dark" alt="Ranj8521Kumar github stats" />
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ranj8521Kumar&count_private=true&show_icons=true&locale=en&theme=dark" alt="Ranj8521Kumar github stats" />
   <br>
 </div>
 
