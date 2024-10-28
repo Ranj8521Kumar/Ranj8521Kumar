@@ -136,12 +136,12 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
 <!--Added: Animated Line Seperators-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
+<div align="center" style="display: flex; flex-direction: row; align-items: center;">
   <h2><b>⚙️ GitHub Analytics</b></h2>
   <a href="https://github.com/Ranj8521Kumar">
-     <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranj8521Kumar&theme=dark" alt="Ranj8521Kumar github stats" />
-      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ranj8521Kumar&count_private=true&show_icons=true&locale=en&theme=dark" alt="Ranj8521Kumar github stats" />
-  <br>
+     <img height="155em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ranj8521Kumar&theme=dark" alt="Ranj8521Kumar github stats" />
+     <img height="155em" src="https://github-readme-stats.vercel.app/api?username=Ranj8521Kumar&count_private=true&show_icons=true&locale=en&theme=dark" alt="Ranj8521Kumar github stats" />
+  </a>
 </div>
 
 <div align="center">
