@@ -81,6 +81,24 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/5.png" width="100px" height="100px" />
 </div>
 
+<!-- Line Separater -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
+
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+  <details>
+    <summary style="font-size: 1.2em; font-weight: bold; cursor: pointer;"><h2> 
+        <img src="https://github.com/user-attachments/assets/bea93eaa-ee8f-4bb9-b995-d53efe2b3689" alt="Badge Icon" style="height: 30px; vertical-align: middle;"/>
+        LeetCode Badges
+      </h2></summary>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=heyranjan&filter=comp&theme=dark" alt="LeetCode Competition Badge"/>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=heyranjan&filter=daily&theme=dark" alt="LeetCode Daily Badge"/>
+  </details>
+ </div>
+
+
+
 <!--Added: Animated Line Seperators-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
