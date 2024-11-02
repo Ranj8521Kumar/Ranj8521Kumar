@@ -88,6 +88,22 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
 
 <div style="display: flex; align-items: center; gap: 10px;" align="center">
   <details>
+    <summary style="cursor: pointer;"><h2>Hacktoberfest(Holopin badge)</h2></summary>
+    <a href="https://holopin.io/@ranj8521kumar" target="_blank">
+      <img src="https://holopin.me/ranj8521kumar" alt="An image of @ranj8521kumar's Holopin badges" />
+    </a>
+  </details>
+</div>
+
+
+
+<!-- Line Separater -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
+
+<div style="display: flex; align-items: center; gap: 10px;" align="center">
+  <details>
     <summary style="font-size: 1.2em; font-weight: bold; cursor: pointer;"><h2> 
         <img src="https://github.com/user-attachments/assets/bea93eaa-ee8f-4bb9-b995-d53efe2b3689" alt="Badge Icon" style="height: 30px; vertical-align: middle;"/>
         LeetCode Badges
