@@ -74,6 +74,7 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
   <h2> 🪶 GSSOC(Ext-24) Badges </h2>
 <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/user-attachments/assets/7cea47af-f96c-4454-915b-88fce2a64bd2" width="100px" height="100px" />
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/1.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/2.png" width="100px" height="100px" />
   <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/3.png" width="100px" height="100px" />
