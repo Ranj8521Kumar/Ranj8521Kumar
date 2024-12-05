@@ -109,7 +109,7 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
         <img src="https://github.com/user-attachments/assets/bea93eaa-ee8f-4bb9-b995-d53efe2b3689" alt="Badge Icon" style="height: 30px; vertical-align: middle;"/>
         LeetCode Badges
       </h2></summary>
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username=heyranjan&filter=comp&theme=dark" alt="LeetCode Competition Badge"/>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=heyranjan&theme=dark&filter=comp" alt="LeetCode Competition Badge"/>
       <img src="https://leetcode-badge-showcase.vercel.app/api?username=heyranjan&theme=dark&filter=daily" alt="LeetCode Daily Badge"/>
   </details>
  </div>
