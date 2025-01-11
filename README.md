@@ -23,7 +23,7 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
 <div>
   👨🏻‍💻 <strong>About me</strong>: Passionate IT Undergrad Student at RGIPT (CGPA: 9.20)<img align="right" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Profile Image" width="380" height= "200" /><br>
   🎓 <strong>Sophomore</strong>: B.Tech in Information Technology(IT)<br>
-  🌐 Check out my ✨ <a href="https://ranj8521kumar.github.io/Portfolio/" target="_blank"><b>Website</b></a> for more!
+  🌐 Check out my ✨ <a href="https://ranj8521kumar.github.io/Portfolio/" target="_blank"><b>Website</b></a> for more!<br>
   ⚡ <strong>Open-Source</strong> & <strong>Tech Enthusiast</strong><br>
   🌱 I am currently learning <strong>Web Development</strong><br>
   🚀 <b>Hackathon Participant</b> | Passionate about Engineering Solutions<br>
@@ -109,7 +109,7 @@ an IT student at RGIPT (CGPA: 9.20) with a passion for web development and machi
         <img src="https://github.com/user-attachments/assets/bea93eaa-ee8f-4bb9-b995-d53efe2b3689" alt="Badge Icon" style="height: 30px; vertical-align: middle;"/>
         LeetCode Badges
       </h2></summary>
-      <img src="https://leetcode-badge-showcase.vercel.app/api?username=heyranjan&theme=dark&filter=comp" alt="LeetCode Competition Badge"/>
+      <img src="https://leetcode-badge-showcase.vercel.app/api?username=heyranjan&theme=dark&filter=annual" alt="LeetCode Competition Badge"/>
       <img src="https://leetcode-badge-showcase.vercel.app/api?username=heyranjan&theme=dark&filter=daily" alt="LeetCode Daily Badge"/>
   </details>
  </div>
