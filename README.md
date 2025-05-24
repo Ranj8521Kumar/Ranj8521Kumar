@@ -198,7 +198,7 @@
     My Contributions
     <img src="https://media.tenor.com/mkPK7XglYZ4AAAAi/cute-sneki.gif" alt="Snake Gif 2" width="50" height="50" />
   </h2>
-  <img alt="snake eating my contributions" src="https://github.com/Ranj8521Kumar/Ranj8521Kumar/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+  <img alt="snake eating my contributions" src="https://github.com/Ranj8521Kumar/Ranj8521Kumar/blob/main/github-contribution-grid-snake-dark.svg?palette=github-dark" />
 </div>
 
 <!-- Animated Line Separator -->
