@@ -15,7 +15,7 @@
 
 <!-- About Me Section -->
 <div>
-  👨🏻‍💻 <strong>About me</strong>: Passionate IT Undergrad at RGIPT (CGPA: 9.20)
+  👨🏻‍💻 <strong>About me</strong>: Passionate IT Undergrad at RGIPT (CGPA: 9.22)
   <img align="right" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Profile Image" width="380" height="200" />
   <br>
   🎓 <strong>Sophomore</strong>: B.Tech in Information Technology (IT)<br>
