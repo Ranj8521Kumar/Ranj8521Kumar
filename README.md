@@ -9,7 +9,7 @@
 <!-- Animated Intro -->
 <h1 align="center">
   <img src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="60" style="padding-bottom: 15px;">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=540&height=60&duration=5000&lines=Hi+There!;+I'm+Ranjan+Kumar+Pandit!;+A+Web+Developer!;+Open+-+Source+%26+Tech+Enthusiast!;" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=540&height=60&duration=5000&lines=Hi+There!;+I'm+Ranjan+Kumar+Pandit!;+A+Full-Stack+Developer!;+AI+Systems+Engineer!;+LLM+Application+Builder!;+Open+-+Source+Contributor!;" alt="Typing Animation" />
   <img src="https://media.tenor.com/InfbZnZgATIAAAAi/hand-gif.gif" width="60" style="padding-bottom: 15px;">
 </h1>
 
