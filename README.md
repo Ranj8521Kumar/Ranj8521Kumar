@@ -19,11 +19,11 @@
   <img align="right" src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" alt="Profile Image" width="380" height="200" />
   <br>
   🎓 <strong>Sophomore</strong>: B.Tech in Information Technology (IT)<br>
-  🌐 Check out my ✨ <a href="https://ranj8521kumar.github.io/Portfolio/" target="_blank"><b>Website</b></a> for more!<br>
+  🌐 Check out my ✨ <a href="https://personal-web-lac-seven.vercel.app/" target="_blank"><b>Portfolio</b></a> for more!<br>
   ⚡ <strong>Open-Source</strong> & <strong>Tech Enthusiast</strong><br>
-  🌱 Currently learning <strong>Web Development</strong><br>
-  🚀 <b>Hackathon Participant</b> | Passionate about Engineering Solutions<br>
-  👯 Active in <b>Hacktoberfest</b>, <b>GSSoC</b>, and other <b>open-source communities</b>
+  🌱 Currently learning <strong>System Design, LLM Engineering & Cloud Architecture</strong><br>
+  🚀 Passionate about solving <strong>real-world problems</strong> through <strong>engineering & AI</strong><br>
+  👯 Open to collaborating on <strong>Full-Stack</strong>, <strong>AI</strong> & <strong>Open-Source</strong> projects
 </div>
 
 <br>
