@@ -51,8 +51,12 @@
 <!-- GitHub Trophies -->
 <div align="center">
   <h2>🏆 GitHub Trophies</h2>
-  <a href="https://github.com/Ranj8521Kumar/github-profile-trophy" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ranj8521Kumar&row=1&no-bg=true" alt="GitHub Trophies">
+  <a href="https://github.com/Ranj8521Kumar">
+    <img
+      src="https://trophy.ryglcloud.net/?username=Ranj8521Kumar&theme=darkhub&row=1&column=9&margin-w=10"
+      alt="GitHub Trophies"
+      width="100%"
+    />
   </a>
 </div>
 
