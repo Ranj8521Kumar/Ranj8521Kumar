@@ -66,13 +66,13 @@
 <!-- GSSOC Badges -->
 <div align="center" style='display:flex; align-items:center; gap: 10px; flex-wrap: wrap;'>
   <h2>🪶 GSSOC(Ext-24) Badges</h2>
-  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/postman.png" width="100" height="100" />
+  <img src="https://github.com/Ranj8521Kumar/Ranj8521Kumar/blob/main/postman.png" width="100" height="100" />
   <img src="https://github.com/user-attachments/assets/7cea47af-f96c-4454-915b-88fce2a64bd2" width="100" height="100" />
-  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/1.png" width="100" height="100" />
-  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/2.png" width="100" height="100" />
-  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/3.png" width="100" height="100" />
-  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/4.png" width="100" height="100" />
-  <img src="https://github.com/girlscript/girlscript-gssoc-ext24/blob/prod/public/badges/5.png" width="100" height="100" />
+  <img src="https://github.com/Ranj8521Kumar/Ranj8521Kumar/blob/main/1.png" width="100" height="100" />
+  <img src="https://github.com/Ranj8521Kumar/Ranj8521Kumar/blob/main/2.png" width="100" height="100" />
+  <img src="https://github.com/Ranj8521Kumar/Ranj8521Kumar/blob/main/3.png" width="100" height="100" />
+  <img src="https://github.com/Ranj8521Kumar/Ranj8521Kumar/blob/main/4.png" width="100" height="100" />
+  <img src="https://github.com/Ranj8521Kumar/Ranj8521Kumar/blob/main/5.png" width="100" height="100" />
 </div>
 
 <!-- Animated Line Separator -->
